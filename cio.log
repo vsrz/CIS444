@@ -1,0 +1,433 @@
+[Fri Nov 30 21:58:11 2012] [1] [client 99.169.166.153] User 108 logged in
+[Fri Nov 30 21:59:51 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Fri Nov 30 22:01:41 2012] [INFO] [client 99.169.166.153] New account created UID: 0 Email: asdfasdf@asdfasdf.com 
+[Fri Nov 30 22:02:06 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Fri Nov 30 22:06:25 2012] [INFO] [client 99.169.166.153] New account created UID: 0 Email: 1ville017@cougars.csusm.edu 
+[Fri Nov 30 22:07:01 2012] [INFO] [client 99.169.166.153] New account created UID:  Email:  
+[Fri Nov 30 22:12:37 2012] [INFO] [client 99.169.166.153] New account created UID:  Email:  
+[Fri Nov 30 22:13:33 2012] [INFO] [client 99.169.166.153] New account created UID:  Email: 2ville017@cougars.csusm.edu 
+[Fri Nov 30 22:18:04 2012] [INFO] [client 99.169.166.153] New account created UID:  Email: 1ville017@cougars.csusm.edu 
+[Fri Nov 30 22:19:11 2012] [INFO] [client 99.169.166.153] New account created UID:  Email: 2ville017@cougars.csusm.edu 
+[Fri Nov 30 22:27:49 2012] [INFO] [client 99.169.166.153] New account created UID: 114 Email: 017@cougars.csusm.edu 
+[Fri Nov 30 22:28:00 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Fri Nov 30 22:28:18 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Fri Nov 30 22:28:27 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Fri Nov 30 22:33:20 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Fri Nov 30 22:51:14 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Fri Nov 30 23:08:38 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Fri Nov 30 23:12:03 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Fri Nov 30 23:15:08 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Fri Nov 30 23:24:19 2012] [INFO] [client 99.169.166.153] User 1 updated their profile
+[Fri Nov 30 23:28:00 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Fri Nov 30 23:34:25 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Fri Nov 30 23:34:54 2012] [INFO] [client 99.169.166.153] User 1 updated their profile
+[Fri Nov 30 23:35:02 2012] [INFO] [client 99.169.166.153] User 1 updated their profile
+[Sat Dec 01 07:58:49 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 09:38:23 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 10:28:23 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 10:34:39 2012] [INFO] [client 68.8.191.161] User 1 logged in
+[Sat Dec 01 10:38:39 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 10:40:15 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 10:42:23 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Sat Dec 01 10:51:59 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 11:24:42 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Sat Dec 01 13:27:15 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 13:27:17 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 13:27:45 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 13:48:36 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 13:49:02 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 13:49:19 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 13:50:22 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 13:50:31 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 13:52:39 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 14:00:45 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 14:06:24 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 14:10:01 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 14:13:14 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 14:15:24 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 14:19:21 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 14:26:53 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 14:37:19 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 14:46:37 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 15:06:32 2012] [INFO] [client 99.169.166.153] User 112 logged in
+[Sat Dec 01 15:12:40 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Sat Dec 01 15:13:36 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 15:20:38 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Sat Dec 01 15:21:12 2012] [INFO] [client 99.169.166.153] User 1 updated their profile
+[Sat Dec 01 15:21:38 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Sat Dec 01 15:21:43 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 15:23:24 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 15:23:43 2012] [INFO] [client 68.111.134.82] User 1 updated their profile
+[Sat Dec 01 15:23:49 2012] [INFO] [client 68.111.134.82] User 1 updated their profile
+[Sat Dec 01 15:23:56 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 15:24:58 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 15:34:20 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 15:54:45 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 16:11:11 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:11:43 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:11:52 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:12:21 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:12:29 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:14:49 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:15:16 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Sat Dec 01 16:15:35 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:17:19 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:18:00 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 16:18:10 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:19:49 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:19:51 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:19:51 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:20:03 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:20:36 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:20:37 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:20:38 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:20:38 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:20:39 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:20:40 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:20:41 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:21:23 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:21:24 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:21:25 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:22:09 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:22:36 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:26:11 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 1
+[Sat Dec 01 16:26:16 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 1
+[Sat Dec 01 16:26:18 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 1
+[Sat Dec 01 16:26:20 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 1
+[Sat Dec 01 16:26:22 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 1
+[Sat Dec 01 16:26:29 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:26:32 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:26:34 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:26:35 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sat Dec 01 16:26:44 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 109
+[Sat Dec 01 16:26:47 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 109
+[Sat Dec 01 16:26:49 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 109
+[Sat Dec 01 16:26:57 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 109
+[Sat Dec 01 16:27:00 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 109
+[Sat Dec 01 16:27:10 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 68
+[Sat Dec 01 16:28:21 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 44
+[Sat Dec 01 16:29:45 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 88
+[Sat Dec 01 16:29:49 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 88
+[Sat Dec 01 16:29:51 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 88
+[Sat Dec 01 16:29:53 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 88
+[Sat Dec 01 16:29:54 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 88
+[Sat Dec 01 16:29:56 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 88
+[Sat Dec 01 16:29:58 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 88
+[Sat Dec 01 16:30:09 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 88
+[Sat Dec 01 16:31:08 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 77
+[Sat Dec 01 16:31:34 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 77
+[Sat Dec 01 16:32:49 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Sat Dec 01 16:33:36 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Sat Dec 01 16:33:42 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Sat Dec 01 20:37:25 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Sat Dec 01 20:37:54 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 21:24:52 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 21:25:58 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 21:41:17 2012] [INFO] [client 68.111.134.82] New account created UID: 115 Email: jhumes@csusm.edu 
+[Sat Dec 01 21:41:49 2012] [INFO] [client 68.111.134.82] User 115 updated their profile
+[Sat Dec 01 21:42:19 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sat Dec 01 21:46:00 2012] [INFO] [client 68.111.134.82] User 115 logged in
+[Sat Dec 01 21:51:27 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Sat Dec 01 21:51:57 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 22:35:12 2012] [INFO] [client 99.169.166.153] 108 deleted link: 82
+[Sat Dec 01 22:37:12 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 44
+[Sat Dec 01 22:37:27 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Sat Dec 01 22:37:41 2012] [INFO] [client 99.169.166.153] 1 created a new link: asdfasdf <http://asdfasdf>
+[Sat Dec 01 22:37:52 2012] [INFO] [client 99.169.166.153] User 1 deleted link: 84
+[Sat Dec 01 22:45:11 2012] [INFO] [client 99.169.166.153] New account created UID: 116 Email: jeremy@jeremy.com 
+[Sat Dec 01 22:46:24 2012] [INFO] [client 99.169.166.153] User 116 updated their profile
+[Sat Dec 01 22:46:35 2012] [INFO] [client 99.169.166.153] 116 created a new link: sahdfashdfas <http://yousuck.com>
+[Sat Dec 01 22:47:16 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sat Dec 01 22:47:45 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 85
+[Sat Dec 01 22:49:47 2012] [INFO] [client 76.176.22.8] User 1 logged in
+[Sat Dec 01 22:58:05 2012] [INFO] [client 99.169.166.153] User 116 logged in
+[Sun Dec 02 00:35:37 2012] [INFO] [client 108.251.70.166] New account created UID: 117 Email: cool123@gmail.com 
+[Sun Dec 02 00:37:49 2012] [INFO] [client 108.251.70.166] User 117 updated their profile
+[Sun Dec 02 00:39:00 2012] [INFO] [client 108.251.70.166] User 117 logged in
+[Sun Dec 02 08:45:09 2012] [INFO] [client 166.137.209.40] New account created UID: 118 Email: jill@smith.com 
+[Sun Dec 02 08:47:08 2012] [INFO] [client 166.137.209.40] 118 created a new link: Test is not too short a description! <http://www.sonicwall.com/furl/phishing/>
+[Sun Dec 02 19:56:35 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sun Dec 02 20:35:37 2012] [INFO] [client 68.111.134.82] User 115 logged in
+[Sun Dec 02 20:40:35 2012] [INFO] [client 68.8.191.161] User 1 logged in
+[Sun Dec 02 20:41:38 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sun Dec 02 20:44:28 2012] [INFO] [client 68.111.134.82] 109 created a new link: Earl Bennet flipped in for a TD <http://assets.sbnation.com/assets/1819485/bennettflip_medium.gif>
+[Sun Dec 02 20:44:39 2012] [INFO] [client 68.111.134.82] Admin 109 deleted link: 87
+[Sun Dec 02 20:44:39 2012] [INFO] [client 68.8.191.161] New account created UID: 119 Email: you@me.com 
+[Sun Dec 02 20:44:58 2012] [INFO] [client 68.111.134.82] User 115 logged in
+[Sun Dec 02 20:45:10 2012] [INFO] [client 68.111.134.82] 109 created a new link: Earl Bennet flipped in for a TD <http://assets.sbnation.com/assets/1819485/bennettflip_medium.gif>
+[Sun Dec 02 20:45:11 2012] [INFO] [client 68.8.191.161] User 119 updated their profile
+[Sun Dec 02 20:47:08 2012] [INFO] [client 68.8.191.161] 119 created a new link: Nice Standing Desk <http://www.versatables.com/products/electric-lift-table/>
+[Sun Dec 02 20:49:00 2012] [INFO] [client 68.111.134.82] User 115 logged in
+[Sun Dec 02 20:50:37 2012] [INFO] [client 68.111.134.82] 109 created a new link: Earl Bennet flipped in for a TD <http://assets.sbnation.com/assets/1819485/bennettflip_medium.gif>
+[Sun Dec 02 20:51:10 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 116
+[Sun Dec 02 20:54:04 2012] [INFO] [client 68.111.134.82] User 115 updated their profile
+[Sun Dec 02 20:54:33 2012] [INFO] [client 68.8.191.161] User 109 logged in
+[Sun Dec 02 20:55:13 2012] [INFO] [client 68.111.134.82] 115 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 20:55:38 2012] [INFO] [client 68.111.134.82] Admin 109 deleted link: 91
+[Sun Dec 02 20:55:44 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 89
+[Sun Dec 02 20:56:20 2012] [INFO] [client 68.8.191.161] User 119 logged in
+[Sun Dec 02 20:56:22 2012] [INFO] [client 68.111.134.82] 115 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 20:56:33 2012] [INFO] [client 68.8.191.161] 119 created a new link: something <http://www.versatables.com/products/electric-lift-table/>
+[Sun Dec 02 20:56:37 2012] [INFO] [client 68.111.134.82] User 115 deleted link: 92
+[Sun Dec 02 20:56:51 2012] [INFO] [client 68.111.134.82] 115 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 20:56:51 2012] [INFO] [client 68.8.191.161] User 109 logged in
+[Sun Dec 02 20:57:00 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 93
+[Sun Dec 02 20:57:34 2012] [INFO] [client 68.111.134.82] User 119 logged in
+[Sun Dec 02 20:58:53 2012] [INFO] [client 68.111.134.82] 119 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 20:58:56 2012] [INFO] [client 68.111.134.82] User 119 deleted link: 95
+[Sun Dec 02 20:59:28 2012] [INFO] [client 68.111.134.82] User 109 updated their profile
+[Sun Dec 02 21:00:15 2012] [INFO] [client 68.111.134.82] 119 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 21:00:51 2012] [INFO] [client 68.111.134.82] Admin 109 deleted link: 94
+[Sun Dec 02 21:02:11 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Sun Dec 02 21:02:23 2012] [INFO] [client 68.111.134.82] Admin 109 deleted link: 96
+[Sun Dec 02 21:02:40 2012] [INFO] [client 68.111.134.82] Admin 109 deleted link: 88
+[Sun Dec 02 21:03:21 2012] [INFO] [client 68.111.134.82] New account created UID: 120 Email: jhumestest@csusm.edu 
+[Sun Dec 02 21:04:09 2012] [INFO] [client 68.8.191.161] User 119 logged in
+[Sun Dec 02 21:06:36 2012] [INFO] [client 68.8.191.161] 119 created a new link: link asdf <http://www.versatables.com/products/electric-lift-table/>
+[Sun Dec 02 21:06:50 2012] [INFO] [client 166.137.209.23] User 118 logged in
+[Sun Dec 02 21:07:22 2012] [INFO] [client 68.8.191.161] User 109 logged in
+[Sun Dec 02 21:07:36 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 97
+[Sun Dec 02 21:08:12 2012] [INFO] [client 68.8.191.161] User 119 logged in
+[Sun Dec 02 21:08:21 2012] [INFO] [client 68.8.191.161] 119 created a new link: linky linky <http://www.versatables.com/products/electric-lift-table/>
+[Sun Dec 02 21:09:09 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 98
+[Sun Dec 02 21:09:32 2012] [INFO] [client 68.111.134.82] 120 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 21:09:43 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 99
+[Sun Dec 02 21:09:55 2012] [INFO] [client 68.111.134.82] 120 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 21:10:40 2012] [INFO] [client 68.8.191.161] User 109 logged in
+[Sun Dec 02 21:10:47 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 100
+[Sun Dec 02 21:11:42 2012] [INFO] [client 68.111.134.82] 120 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 21:12:05 2012] [INFO] [client 68.111.134.82] Admin 109 deleted link: 101
+[Sun Dec 02 21:12:22 2012] [INFO] [client 68.111.134.82] 120 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 21:12:29 2012] [INFO] [client 68.111.134.82] Admin 109 deleted link: 102
+[Sun Dec 02 21:13:41 2012] [INFO] [client 68.111.134.82] 120 created a new link: Test LInk <http://imgur.com/je0Wq>
+[Sun Dec 02 21:13:49 2012] [INFO] [client 68.111.134.82] Admin 109 deleted link: 103
+[Sun Dec 02 21:14:15 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 1
+[Sun Dec 02 21:14:36 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 6
+[Sun Dec 02 21:14:47 2012] [INFO] [client 68.111.134.82] 120 created a new link: LAVA!!!! <http://i.imgur.com/sC2OT.jpg>
+[Sun Dec 02 21:14:50 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 64
+[Sun Dec 02 21:14:56 2012] [INFO] [client 68.111.134.82] 120 created a new link: Test LInk <http://imgur.com/je0Wq>
+[Sun Dec 02 21:14:57 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 90
+[Sun Dec 02 21:15:13 2012] [INFO] [client 68.111.134.82] User 120 updated their profile
+[Sun Dec 02 21:15:51 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 90
+[Sun Dec 02 21:16:05 2012] [INFO] [client 68.111.134.82] User 120 deleted link: 104
+[Sun Dec 02 21:16:17 2012] [INFO] [client 68.111.134.82] 120 created a new link: LAVA!!!! <http://cis444.cs.csusm.edu/groupa/images/img01.jpg>
+[Sun Dec 02 21:16:55 2012] [INFO] [client 68.111.134.82] Admin 109 deleted link: 106
+[Sun Dec 02 21:17:32 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 62
+[Sun Dec 02 21:17:40 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 36
+[Sun Dec 02 21:18:11 2012] [INFO] [client 68.8.191.161] User 119 logged in
+[Sun Dec 02 21:18:20 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 67
+[Sun Dec 02 21:19:28 2012] [INFO] [client 68.111.134.82] Admin 109 toggled the ban status for 120
+[Sun Dec 02 21:20:08 2012] [INFO] [client 68.8.191.161] 119 created a new link: link link <http://www.versatables.com/products/electric-lift-table/>
+[Sun Dec 02 21:21:26 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 41
+[Sun Dec 02 21:21:48 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 47
+[Sun Dec 02 21:22:37 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 51
+[Sun Dec 02 21:24:16 2012] [INFO] [client 68.8.191.161] User 119 deleted link: 107
+[Sun Dec 02 21:24:22 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 51
+[Sun Dec 02 21:24:23 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 51
+[Sun Dec 02 21:24:24 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 51
+[Sun Dec 02 21:25:00 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 51
+[Sun Dec 02 21:25:05 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 2
+[Sun Dec 02 21:25:07 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 2
+[Sun Dec 02 21:25:18 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 2
+[Sun Dec 02 21:25:24 2012] [INFO] [client 68.8.191.161] User 119 deleted link: 107
+[Sun Dec 02 21:25:31 2012] [INFO] [client 99.169.166.153] Admin 108 deleted link: 86
+[Sun Dec 02 21:25:37 2012] [INFO] [client 68.8.191.161] 119 created a new link: link link <http://www.versatables.com/products/electric-lift-table/>
+[Sun Dec 02 21:26:36 2012] [INFO] [client 68.8.191.161] User 119 logged in
+[Sun Dec 02 21:26:47 2012] [INFO] [client 68.8.191.161] User 109 logged in
+[Sun Dec 02 21:26:56 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 108
+[Sun Dec 02 21:27:16 2012] [INFO] [client 68.8.191.161] Admin 109 deleted link: 105
+[Sun Dec 02 21:27:41 2012] [INFO] [client 68.8.191.161] Admin 109 toggled the ban status for 119
+[Sun Dec 02 21:28:11 2012] [INFO] [client 68.8.191.161] User 109 logged in
+[Sun Dec 02 21:28:33 2012] [INFO] [client 68.8.191.161] Admin 109 toggled the ban status for 119
+[Sun Dec 02 21:28:40 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sun Dec 02 21:29:46 2012] [INFO] [client 99.169.166.153] User 112 logged in
+[Sun Dec 02 21:30:06 2012] [INFO] [client 99.169.166.153] 112 created a new link: My gravatar <http://gravatar.com/vsritual>
+[Sun Dec 02 21:30:16 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sun Dec 02 21:35:32 2012] [INFO] [client 68.8.191.161] User 119 logged in
+[Sun Dec 02 21:35:53 2012] [INFO] [client 68.8.191.161] 119 created a new link: yeahman <http://www.versatables.com/products/electric-lift-table/>
+[Sun Dec 02 21:36:02 2012] [INFO] [client 68.8.191.161] User 119 deleted link: 110
+[Sun Dec 02 21:36:13 2012] [INFO] [client 68.8.191.161] 119 created a new link: this is a cool desk\n <http://www.versatables.com/products/electric-lift-table/>
+[Sun Dec 02 21:36:55 2012] [INFO] [client 68.8.191.161] User 109 logged in
+[Sun Dec 02 21:38:18 2012] [INFO] [client 68.111.134.82] Admin 109 toggled the ban status for 118
+[Sun Dec 02 22:58:58 2012] [INFO] [client 70.181.216.115] New account created UID: 121 Email: luo006@csusm.edu 
+[Sun Dec 02 23:00:05 2012] [INFO] [client 70.181.216.115] User 121 updated their profile
+[Sun Dec 02 23:22:40 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Sun Dec 02 23:25:34 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 68
+[Sun Dec 02 23:31:32 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Sun Dec 02 23:31:35 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Sun Dec 02 23:32:48 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Sun Dec 02 23:34:35 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Sun Dec 02 23:34:39 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Sun Dec 02 23:36:56 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Sun Dec 02 23:42:30 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 116
+[Sun Dec 02 23:42:31 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Sun Dec 02 23:42:34 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Sun Dec 02 23:46:39 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sun Dec 02 23:46:42 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 108
+[Sun Dec 02 23:46:47 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 1
+[Sun Dec 02 23:46:48 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 1
+[Mon Dec 03 00:09:54 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Mon Dec 03 00:10:07 2012] [INFO] [client 99.169.166.153] Admin 109 toggled the ban status for 108
+[Mon Dec 03 00:11:23 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Mon Dec 03 00:27:05 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Mon Dec 03 00:28:47 2012] [INFO] [client 99.169.166.153] 108 created a new link: My brother just left for the marines, this is how we spent our last few hours together. <http://i.imgur.com/5VCnN.jpg>
+[Mon Dec 03 00:29:08 2012] [INFO] [client 99.169.166.153] 108 created a new link: She has a serious problem there... <http://i.imgur.com/R5HF6.gif>
+[Mon Dec 03 00:31:57 2012] [INFO] [client 99.169.166.153] 108 created a new link: Found a serious exploit and a really outdated infrastructure <http://www.reddit.com/r/sysadmin/comments/146nhg/found_a_serious_exploit_and_a_really_outdated/>
+[Mon Dec 03 00:32:13 2012] [INFO] [client 99.169.166.153] 108 created a new link: Me at 8 years old experiencing my first game addiction after coming from Iraq to Canada as a refugee. <http://i.imgur.com/gaU1j.jpeg>
+[Mon Dec 03 00:32:24 2012] [INFO] [client 99.169.166.153] 108 created a new link: Here's how BYOD turns into a monster [infographic] <http://www.intomobile.com/2012/12/01/heres-byod-turns-into-monster-infographic/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IntoMobile+IntoMobile>
+[Mon Dec 03 00:33:19 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Mon Dec 03 07:23:55 2012] [INFO] [client 144.37.205.2] User 109 logged in
+[Mon Dec 03 08:54:44 2012] [INFO] [client 144.37.205.113] User 1 logged in
+[Mon Dec 03 08:54:57 2012] [INFO] [client 144.37.205.113] User 109 logged in
+[Mon Dec 03 09:17:06 2012] [INFO] [client 205.153.156.221] New account created UID: 122 Email: riceboi752@hotmail.com 
+[Mon Dec 03 09:17:58 2012] [INFO] [client 205.153.156.221] User 122 logged in
+[Mon Dec 03 09:18:35 2012] [INFO] [client 205.153.156.221] User 122 updated their profile
+[Mon Dec 03 09:18:56 2012] [INFO] [client 205.153.156.221] New account created UID: 123 Email: jnguyen1548@gmail.com 
+[Mon Dec 03 09:19:46 2012] [INFO] [client 205.153.156.221] 123 created a new link: asdfsdf <httphttp://cis444.cs.csusm.edu/groupa/user.php?uid=123>
+[Mon Dec 03 09:20:04 2012] [INFO] [client 205.153.156.221] User 122 logged in
+[Mon Dec 03 09:21:04 2012] [INFO] [client 205.153.156.221] User 123 logged in
+[Mon Dec 03 09:22:54 2012] [INFO] [client 205.153.156.221] User 122 logged in
+[Mon Dec 03 10:01:14 2012] [INFO] [client 205.153.156.221] New account created UID: 124 Email: nguye205@cougars.csusm.edu 
+[Mon Dec 03 10:02:52 2012] [INFO] [client 205.153.156.221] User 123 logged in
+[Mon Dec 03 10:02:57 2012] [INFO] [client 205.153.156.221] User 123 logged in
+[Mon Dec 03 10:15:59 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Mon Dec 03 10:47:13 2012] [INFO] [client 205.153.156.221] User 123 logged in
+[Mon Dec 03 11:11:44 2012] [INFO] [client 99.169.166.153] New account created UID: 125 Email: jvillegas@csusm.edu 
+[Mon Dec 03 11:12:52 2012] [INFO] [client 205.153.156.221] User 123 deleted link: 116
+[Mon Dec 03 11:36:05 2012] [INFO] [client 99.169.166.153] User 125 logged in
+[Mon Dec 03 12:13:19 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 109
+[Mon Dec 03 12:13:24 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 109
+[Mon Dec 03 12:18:28 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Mon Dec 03 12:18:29 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Mon Dec 03 12:45:28 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Mon Dec 03 12:45:33 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 109
+[Mon Dec 03 12:45:36 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 7
+[Mon Dec 03 12:45:40 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 109
+[Mon Dec 03 12:45:42 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 7
+[Mon Dec 03 12:45:43 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 120
+[Mon Dec 03 12:53:33 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Mon Dec 03 12:53:49 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 125
+[Mon Dec 03 12:53:50 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 125
+[Mon Dec 03 13:14:51 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 1
+[Mon Dec 03 13:14:52 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 1
+[Mon Dec 03 13:16:28 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 13:21:31 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 13:21:37 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 13:21:59 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 13:23:27 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 13:25:02 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 13:25:06 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 13:26:00 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 13:28:10 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 15:23:43 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 125
+[Mon Dec 03 15:23:44 2012] [INFO] [client 99.169.166.153] Admin 108 toggled the ban status for 125
+[Mon Dec 03 16:02:06 2012] [INFO] [client 76.176.22.8] User 27 logged in
+[Mon Dec 03 17:21:26 2012] [INFO] [client 70.168.62.52] User 123 logged in
+[Mon Dec 03 17:36:34 2012] [INFO] [client 70.168.62.52] User 123 logged in
+[Mon Dec 03 17:36:49 2012] [INFO] [client 70.168.62.52] Admin 123 toggled the ban status for 118
+[Mon Dec 03 17:37:33 2012] [INFO] [client 108.247.32.195] Admin 108 toggled the ban status for 120
+[Mon Dec 03 17:41:55 2012] [INFO] [client 108.247.32.195] User 109 logged in
+[Mon Dec 03 17:46:59 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Mon Dec 03 17:47:08 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Mon Dec 03 18:11:55 2012] [INFO] [client 108.247.32.195] Admin 109 toggled the ban status for 36
+[Mon Dec 03 18:11:59 2012] [INFO] [client 108.247.32.195] Admin 109 toggled the ban status for 120
+[Mon Dec 03 18:23:17 2012] [INFO] [client 68.8.191.161] User 109 logged in
+[Mon Dec 03 18:53:52 2012] [INFO] [client 76.176.22.8] User 27 logged in
+[Mon Dec 03 18:55:07 2012] [INFO] [client 76.176.22.8] User 27 logged in
+[Mon Dec 03 19:09:56 2012] [INFO] [client 68.111.134.82] Admin 109 toggled the ban status for 112
+[Mon Dec 03 19:34:09 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Mon Dec 03 19:34:29 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Mon Dec 03 19:34:55 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Mon Dec 03 19:40:43 2012] [INFO] [client 68.8.191.161] User 109 logged in
+[Mon Dec 03 19:41:10 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Mon Dec 03 19:41:41 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Mon Dec 03 19:42:02 2012] [INFO] [client 99.169.166.153] User 109 updated their profile
+[Mon Dec 03 19:43:04 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Mon Dec 03 19:45:40 2012] [INFO] [client 68.111.134.82] User 108 logged in
+[Mon Dec 03 19:45:55 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Mon Dec 03 19:45:58 2012] [INFO] [client 68.111.134.82] User 108 updated their profile
+[Mon Dec 03 19:46:03 2012] [INFO] [client 99.169.166.153] User 108 updated their profile
+[Mon Dec 03 19:46:53 2012] [INFO] [client 68.111.134.82] User 108 logged in
+[Mon Dec 03 19:47:02 2012] [INFO] [client 68.111.134.82] User 108 updated their profile
+[Mon Dec 03 19:50:09 2012] [INFO] [client 68.111.134.82] User 109 logged in
+[Mon Dec 03 19:50:56 2012] [INFO] [client 68.8.191.161] New account created UID: 126 Email: linin001@cougars.csusm.edu 
+[Mon Dec 03 19:53:05 2012] [INFO] [client 68.111.134.82] User 108 logged in
+[Mon Dec 03 19:53:22 2012] [INFO] [client 68.111.134.82] User 108 updated their profile
+[Mon Dec 03 19:53:43 2012] [INFO] [client 68.8.191.161] User 126 updated their profile
+[Mon Dec 03 19:54:14 2012] [INFO] [client 68.8.191.161] User 126 logged in
+[Mon Dec 03 19:54:22 2012] [INFO] [client 68.8.191.161] User 108 logged in
+[Mon Dec 03 19:55:00 2012] [INFO] [client 68.111.134.82] User 108 logged in
+[Mon Dec 03 19:56:08 2012] [INFO] [client 68.111.134.82] User 108 logged in
+[Mon Dec 03 19:56:14 2012] [INFO] [client 68.111.134.82] User 108 logged in
+[Mon Dec 03 19:56:22 2012] [INFO] [client 68.8.191.161] User 108 logged in
+[Mon Dec 03 20:05:41 2012] [INFO] [client 68.8.191.161] User 108 logged in
+[Mon Dec 03 20:15:48 2012] [INFO] [client 68.8.191.161] User 108 logged in
+[Mon Dec 03 20:36:51 2012] [INFO] [client 68.111.134.82] User 108 logged in
+[Mon Dec 03 21:04:19 2012] [INFO] [client 99.169.166.153] User 108 logged in
+[Mon Dec 03 21:16:56 2012] [INFO] [client 68.111.134.82] User 108 logged in
+[Mon Dec 03 21:17:16 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Mon Dec 03 21:19:38 2012] [INFO] [client 99.169.166.153] User 109 updated their profile
+[Mon Dec 03 21:39:59 2012] [INFO] [client 99.169.166.153] New account created UID: 127 Email: ville017@cougars.csusm.edu 
+[Mon Dec 03 21:50:27 2012] [INFO] [client 99.169.166.153] User 127 updated their profile
+[Mon Dec 03 21:51:05 2012] [INFO] [client 99.169.166.153] User 127 updated their profile
+[Mon Dec 03 21:51:07 2012] [INFO] [client 99.169.166.153] User 127 updated their profile
+[Mon Dec 03 21:51:12 2012] [INFO] [client 99.169.166.153] User 127 updated their profile
+[Mon Dec 03 21:51:30 2012] [INFO] [client 99.169.166.153] User 127 updated their profile
+[Mon Dec 03 21:51:43 2012] [INFO] [client 99.169.166.153] User 127 logged in
+[Mon Dec 03 21:51:49 2012] [INFO] [client 99.169.166.153] User 127 updated their profile
+[Mon Dec 03 22:33:29 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Mon Dec 03 22:33:54 2012] [INFO] [client 99.169.166.153] Admin 109 deleted link: 115
+[Mon Dec 03 22:50:20 2012] [INFO] [client 68.111.134.82] User 108 logged in
+[Mon Dec 03 22:52:28 2012] [INFO] [client 68.111.134.82] User 1 logged in
+[Tue Dec 04 00:04:39 2012] [INFO] [client 108.251.70.166] User 111 logged in
+[Tue Dec 04 00:07:17 2012] [INFO] [client 108.251.70.166] User 111 logged in
+[Tue Dec 04 00:11:40 2012] [INFO] [client 108.251.70.166] User 99 logged in
+[Tue Dec 04 00:20:11 2012] [INFO] [client 108.251.70.166] User 111 logged in
+[Tue Dec 04 03:01:06 2012] [INFO] [client 144.37.118.87] New account created UID: 116 Email: fake@gmail.com 
+[Tue Dec 04 05:29:02 2012] [INFO] [client 144.37.104.220] New account created UID: 117 Email: salda016@cougars.csusm.edu 
+[Tue Dec 04 05:30:47 2012] [INFO] [client 144.37.104.220] User 117 logged in
+[Tue Dec 04 10:35:41 2012] [INFO] [client 70.168.62.52] User 115 logged in
+[Tue Dec 04 12:04:18 2012] [INFO] [client 144.37.106.211] New account created UID: 118 Email: jin006@csusm.edu 
+[Tue Dec 04 12:05:57 2012] [INFO] [client 144.37.106.211] New account created UID: 119 Email: luo006@csusm.edu 
+[Tue Dec 04 12:08:31 2012] [INFO] [client 144.37.106.211] 119 created a new link: cougars <http://www.csusm.edu>
+[Tue Dec 04 12:08:46 2012] [INFO] [client 144.37.106.211] User 119 deleted link: 78
+[Wed Dec 05 23:31:41 2012] [INFO] [client 99.169.166.153] 109 created a new link: A Bookworm's Christmas Tree <http://i.imgur.com/AdOd2.jpg>
+[Wed Dec 05 23:33:06 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Wed Dec 05 23:34:58 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Wed Dec 05 23:37:55 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Wed Dec 05 23:38:19 2012] [INFO] [client 99.169.166.153] User 1 logged in
+[Wed Dec 05 23:42:05 2012] [INFO] [client 99.169.166.153] User 109 logged in
+[Wed Dec 05 23:49:54 2012] [INFO] [client 99.169.166.153] 109 created a new link: Tattoo artists' canvas on a dirty car <http://i.imgur.com/5J9x4.jpg>
+[Wed Dec 05 23:50:44 2012] [INFO] [client 99.169.166.153] 109 created a new link: Computer Science at Cal State San Marcos <http://csusm.edu/cs/>
+[Wed Dec 05 23:51:36 2012] [INFO] [client 99.169.166.153] Admin 109 toggled the ban status for 118
+[Wed Dec 05 23:51:38 2012] [INFO] [client 99.169.166.153] Admin 109 toggled the ban status for 118
+[Wed Dec 05 23:51:43 2012] [INFO] [client 99.169.166.153] Admin 109 toggled the ban status for 118
+[Wed Dec 05 23:51:46 2012] [INFO] [client 99.169.166.153] Admin 109 toggled the ban status for 118
+[Wed Dec 05 23:54:18 2012] [INFO] [client 99.169.166.153] 109 created a new link: test link <http>
+[Wed Dec 05 23:54:20 2012] [INFO] [client 99.169.166.153] Admin 109 deleted link: 83
+[Thu Dec 06 09:39:30 2012] [INFO] [client 144.37.205.231] User 1 logged in
+[Thu Dec 06 09:40:05 2012] [INFO] [client 144.37.205.231] 1 created a new link: baby!! <http://imgur.com/mGmbW>
+[Thu Dec 06 09:40:36 2012] [INFO] [client 144.37.205.231] User 108 logged in
+[Thu Dec 06 09:41:14 2012] [INFO] [client 144.37.205.231] Admin 108 deleted link: 84
+[Thu Dec 06 09:41:47 2012] [INFO] [client 144.37.205.231] User 1 logged in
+[Thu Dec 06 09:41:59 2012] [INFO] [client 144.37.205.231] 1 created a new link: baby!! <http://imgur.com/mGmbW>
+[Thu Dec 06 09:42:42 2012] [INFO] [client 144.37.205.231] User 108 logged in
+[Thu Dec 06 09:43:03 2012] [INFO] [client 144.37.205.231] Admin 108 deleted link: 85
+[Thu Dec 06 09:43:29 2012] [INFO] [client 144.37.205.231] New account created UID: 120 Email: a@b.com 
+[Thu Dec 06 09:43:39 2012] [INFO] [client 144.37.205.231] User 120 updated their profile
+[Thu Dec 06 09:44:09 2012] [INFO] [client 144.37.205.231] User 120 updated their profile
+[Thu Dec 06 09:44:24 2012] [INFO] [client 144.37.205.231] User 120 updated their profile
+[Thu Dec 06 09:48:13 2012] [INFO] [client 144.37.205.231] 120 created a new link: baby!! <http://imgur.com/mGmbW>
+[Thu Dec 06 10:02:59 2012] [INFO] [client 144.37.171.120] User 112 logged in
+[Thu Dec 06 10:53:38 2012] [INFO] [client 144.37.205.231] User 120 logged in
+[Thu Dec 06 12:13:24 2012] [INFO] [client 144.37.205.231] User 1 logged in
+[Thu Dec 06 12:14:06 2012] [INFO] [client 144.37.205.231] 1 created a new link: Red Bull: Kluge <http://youtu.be/M0jmSsQ5ptw>
+[Thu Dec 06 12:14:41 2012] [INFO] [client 144.37.205.231] User 108 logged in
+[Thu Dec 06 13:11:26 2012] [INFO] [client 144.37.93.211] User 1 logged in
+[Thu Dec 06 13:13:26 2012] [INFO] [client 144.37.93.211] 1 created a new link: Check It Out <http://www.checkitout.com>
+[Thu Dec 06 13:13:32 2012] [INFO] [client 144.37.93.211] User 1 deleted link: 88
+[Thu Dec 06 13:14:09 2012] [INFO] [client 144.37.93.211] User 109 logged in
+[Thu Dec 06 13:14:28 2012] [INFO] [client 144.37.93.211] Admin 109 toggled the ban status for 120
+[Thu Dec 06 13:14:42 2012] [INFO] [client 144.37.93.211] Admin 109 deleted link: 87
+[Sun Dec 09 00:49:36 2012] [INFO] [client 76.212.154.131] New account created UID: 121 Email: ruval002@cougars.csusm.edu 
+[Sun Dec 09 00:50:44 2012] [INFO] [client 76.212.154.131] 121 created a new link: facebook <http://www.facebook.com>
