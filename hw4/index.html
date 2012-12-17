@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Fruit Stand</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <script type="text/javascript" src="handlers.js"></script>
+    </head>
+    <body onLoad="document.getElementById('tApple').focus()">
+        <form>
+            <fieldset>
+                <legend>&nbsp;</legend>
+                <table>
+                    <caption>&nbsp;</caption>
+                    <thead>
+                        <tr>
+                            <th>
+                                Item
+                            </th>
+                            <th>
+                                Price
+                            </th>
+                            <th>
+                                Quantity                        
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <label for="tApple">Apple</label>
+                            </td>
+                            <td>$0.59</td>                                
+                            <td>
+                                <input type="text" id="tApple" onfocus="this.value=''" onblur="checkInventory(this)" value="0" />        
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="tOrange">Orange</label>
+                           </td>
+                            <td>$0.49</td>                                
+                            <td>
+                                <input type="text" id="tOrange" onfocus="this.value=''" onblur="checkInventory(this)" value="0" />        
+                            </td>
+                        </tr>                        
+                        <tr>
+                            <td>
+                                <label for="tBanana">Banana</label>
+                            </td>
+                            <td>$0.39</td>                                
+                            <td>
+                                <input type="text" id="tBanana" onfocus="this.value=''" onblur="checkInventory(this)" value="0" />        
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="2">
+                                <label for="tSubtotal">Sub-Total</label>
+                            </td>
+                            <td>
+                                <input id="tSubtotal" type="text" disabled="disabled" value="0" />
+                            </td>
+                        </tr>
+                        <tr>                           
+                            <td colspan="3">
+                                <label for="submit">&nbsp;</label>
+                                <input type="button" id="submit" onclick="alertTotal()" value="Calculate"/>                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <label for="submitfake">&nbsp;</label>
+                            </td>
+                            <td>
+                                <input id="submitfake" type="submit" value="submit" />
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </fieldset>
+        </form>
+    </body>
+</html>

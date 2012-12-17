@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cars SYSTEM "cars-7.1.dtd">
+<cars>
+    <car>
+        <year>2002</year>
+        <make>Honda</make>
+        <model>Civic</model>
+        <color>White</color>
+        <engine>
+            <number_of_cylinders>4</number_of_cylinders>
+            <fuel_system type="carbureted" />
+        </engine>
+        <number_of_doors>4</number_of_doors>
+        <transmission_type>Automatic</transmission_type>
+        <accessories radio="yes" air_conditioner="yes" power_window="yes" power_steering="yes" power_brake="yes" />            
+    </car>
+    <car>
+        <year>1996</year>
+        <make>Nissan</make>
+        <model>Sentra</model>
+        <color>Red</color>
+        <engine>
+            <number_of_cylinders>4</number_of_cylinders>
+            <fuel_system type="fuel injection" />
+        </engine>
+        <number_of_doors>2</number_of_doors>
+        <transmission_type>Manual</transmission_type>
+        <accessories radio="yes" air_conditioner="yes" power_window="yes" power_steering="yes" power_brake="yes" />            
+    </car>
+    <car>
+        <year>1997</year>
+        <make>Dodge</make>
+        <model>Caravan</model>
+        <color>Blue</color>
+        <engine>
+            <number_of_cylinders>4</number_of_cylinders>
+            <fuel_system type="fuel injection" />
+        </engine>
+        <number_of_doors>5</number_of_doors>
+        <transmission_type>Automatic</transmission_type>
+        <accessories radio="yes" air_conditioner="yes" power_window="yes" power_steering="yes" power_brake="yes" />            
+    </car>
+</cars>

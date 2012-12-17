@@ -1,0 +1,15 @@
+
+div#panel {
+    position: fixed;
+    left: 0px;
+}
+
+p {
+    font-weight: bold;
+    font-size: 2.5em;
+
+}
+
+#submit {
+    visibility: hidden;
+}

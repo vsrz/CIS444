@@ -1,0 +1,32 @@
+/* 
+    Document   : style
+    Created on : Oct 8, 2012, 3:23:44 PM
+    Author     : vsrz
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+input {
+    text-align: right;
+}
+
+tfoot {
+    text-align: right;
+}
+
+td {
+    padding: 5px 15px;
+}
+
+input#tSubtotal {
+    background-color: #BFFFE1;
+}
+
+fieldset {
+    border: 0;
+}
+
+input#submitfake {
+    visibility: hidden;
+}
+

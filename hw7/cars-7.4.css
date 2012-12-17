@@ -1,0 +1,85 @@
+/* 
+    Document   : cars
+    Created on : Dec 5, 2012, 9:41:32 PM
+    Author     : 
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+car {
+    position: relative;
+    margin-top: 16px;
+    clear: both;
+    float: left;
+}
+make {
+    display: inline;
+    font-size: x-large;    
+    font-weight: bold;
+    float: left;
+    text-decoration: underline;
+    padding-right: 1em;
+}
+year {
+    display: inline;
+    font-size: x-large;    
+    font-weight: bold;
+    float: left;
+    text-decoration: underline;
+    padding-right: 1em;
+}
+model {
+    display: inline;
+    font-size: x-large;    
+    font-weight: bold;
+    float: left;
+    text-decoration: underline;
+    padding-right: 1em;
+}
+color {
+    display: inline;
+    font-size: x-large;    
+    font-weight: bold;
+    float: left;
+    text-decoration: underline;
+    padding-right: 1em;
+}
+engine {
+    clear: both;
+    float: left;
+    display: block;
+}
+
+number_of_cylinders {
+    clear: both;
+    float: left;
+    display: block;
+}
+
+fuel_system {
+    clear: both;
+    float: left;
+    display: block;
+}
+
+number_of_doors{
+    clear: both;
+    float: left;
+    display: block;
+    margin-left: 36px;
+}
+
+transmission_type{
+    clear: both;
+    float: left;
+    display: block;
+    margin-left: 36px;
+}
+
+engine {
+    clear: both;
+    float: left;
+    display: block;
+    margin-left: 36px;
+}
+

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-us">    
+    <head>
+        <meta charset="UTF-8" />
+        <title>ville017 HW5 - TimeSaver</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />        
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script type="text/javascript" src="handlers.js"></script>
+    </head>
+    <body onLoad="shiftText()">                
+        <form>
+            <label for="xStart">Start Position: </label><input type="text" id="xStart" value="0" />
+            <label for="xEnd">End Position: </label><input type="text" id="xEnd" value="0" />
+            <input type="button" id="confirm" onClick="setPos(document.getElementById('xStart').value,document.getElementById('xEnd').value)" value="Confirm" />
+            <input type="submit" id="submit" onclick="return false" />
+        </form>
+        <div id="panel">
+            <p>TIME-SAVER 2.2</p>
+        </div>
+
+    </body>
+</html>

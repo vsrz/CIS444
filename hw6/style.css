@@ -1,0 +1,55 @@
+
+/**
+ * CIS444 - HW6 - By Jeremy Villegas
+ * Fall 2012
+*/
+
+root { 
+    display: block;    
+}
+
+#teamid{
+    color: #acacac;
+}
+
+p.error {
+    width: 230px;
+    height: auto;
+    background: #ffcccc;
+    border: 1px solid #ef0000;
+    margin: 32px auto;	
+    text-align: center;
+    color: #ff0000; 
+    padding: 12px;	
+}
+
+.fontChange {
+    padding: 0px 16px;
+    
+}
+table {
+    padding-top: 3%;
+}
+table thead tr th { 
+    color:black;    
+    background-color: beige;
+    font-family: arial;
+    padding: 1em 2em;
+    font-weight: bold;
+}
+
+table tr {
+    background-color: #dedede;
+    text-align: center;    
+    font-family: monospace;
+    font-size: small;
+}
+table tr.altrow {
+    background-color: #efefef;
+    text-align: center;    
+}
+
+table tr:hover {
+    background-color: #bbbbbb;
+
+}

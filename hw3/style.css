@@ -1,0 +1,24 @@
+/* 
+    Document   : style
+    Created on : Oct 2, 2012, 11:52:47 AM
+    Author     : jvillegas
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+table.tblFactorial th { 
+    color:black;    
+    background-color: beige;
+    font-family: arial;
+    padding: 1em 2em;
+}
+
+table.tblFactorial tr {
+    background-color: #eeeeee;
+    text-align: center;
+}
+table.tblFactorial tr.altrow {
+    background-color: #ffffff;
+    text-align: center;    
+}

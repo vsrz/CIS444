@@ -1,0 +1,49 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="cars">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="car" maxOccurs="unbounded" minOccurs="0">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:short" name="year"/>
+                            <xs:element type="xs:string" name="make"/>
+                            <xs:element type="xs:string" name="model"/>
+                            <xs:element type="xs:string" name="color"/>
+                            <xs:element name="engine">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element type="xs:byte" name="number_of_cylinders"/>
+                                        <xs:element name="fuel_system">
+                                            <xs:complexType>
+                                                <xs:simpleContent>
+                                                    <xs:extension base="xs:string">
+                                                        <xs:attribute type="xs:string" name="type" use="optional"/>
+                                                    </xs:extension>
+                                                </xs:simpleContent>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element type="xs:byte" name="number_of_doors"/>
+                            <xs:element type="xs:string" name="transmission_type"/>
+                            <xs:element name="accessories">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute type="xs:string" name="radio" use="optional"/>
+                                            <xs:attribute type="xs:string" name="air_conditioner" use="optional"/>
+                                            <xs:attribute type="xs:string" name="power_window" use="optional"/>
+                                            <xs:attribute type="xs:string" name="power_steering" use="optional"/>
+                                            <xs:attribute type="xs:string" name="power_brake" use="optional"/>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
