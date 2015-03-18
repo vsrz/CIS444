@@ -87,7 +87,7 @@ class Member {
         if($count>0)return(true);
         return(false);
     }
-        
+
     public function load($uid = null) {
         if($uid==null) {
             return(false);
@@ -210,7 +210,6 @@ class Member {
         // Build the query to create the account
         $this->db = new Db();
         $data = array();
-        $data['UID'] = '0';
         $data['EMAIL'] = $this->db->scrub($email);
         $data['PASSWORD'] = $this->db->scrub($pass);
         $data['SIGNUP_DATE'] = date("Y-m-d", time());
@@ -281,7 +280,6 @@ class Member {
             }
         }
         $query .= ' WHERE UID = ' . $this->db->scrub($val['UID']);
-        
         $this->db = new Db();
         $this->db->select($query);
         $val['ISADMIN'] = null;

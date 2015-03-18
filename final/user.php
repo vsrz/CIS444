@@ -49,6 +49,7 @@ $lerr = array();
 // by default, we'll view our own profile.
 if (isset($_GET['u'])) {
     $uid = $_GET['u'];
+    $userProfileView = $uid;
 } else
     $uid = $s->getUid();
 
@@ -362,14 +363,14 @@ if($uid == $s->getUid()) {
 
                             // Description
                             $href = $link['DESCRIPTION'];
-                            print('<td><a href="'.$link['URL'].'" target="_blank">' . $href . '</a></td>');
+                            print('<td><a class="userpost" data-index="'. $link['LID'] .'" href="'.$link['URL'].'" target="_blank">' . $href . '</a></td>');
 
                             // Submission Date
                             // Change date from MYSQL format to Prefered Date/Time format
                             $datetime = strtotime($link['POST_DATE']);
                             $sub_date = date("m/d/Y", $datetime);	
                             print('<td>' . $sub_date . '</td>');
-                            print('<td><a href="' . $link['URL'] . '" target="_blank"><img src="images/32magnify.png" alt="View" />&nbsp;View</a>&nbsp;');
+                            print('<td><a class="userpost" data-index="'. $link['LID'] .'" href="' . $link['URL'] . '" target="_blank"><img src="images/32magnify.png" alt="View" />&nbsp;View</a>&nbsp;');
                             if ($uid == $s->getUid() || $s->isAdmin()) {
                                 print('<a href="?u='.$uid.'&remove=true&lid=' . $link['LID'] . '"><img src="images/redx.png" alt="Delete" />&nbsp;Delete</a>&nbsp;</td>');
                             }
@@ -567,7 +568,8 @@ if($uid == $s->getUid()) {
                             } else {
                                 $name = $friend['FNAME'] . ' ' . $friend['LNAME'];
                             }
-                            print('<li><a href="?u=' . $friend['UID'] . '"><img src="images/friend.png" alt="' . $name . '" class="icon16" />&nbsp;' . $name . '</a></li>');
+                            print('<li><a class="userprofile" href="?context=friend_of_friend&u=' . $friend['UID'] . '"><img src="images/friend.png" alt="' . $name . '" class="icon16" />&nbsp;' . $name . '</a></li>');
+                            echo "<script>ga('send', 'event', 'userprofile', 'impression', '" . $friend['UID'] . "');</script>";
                         }
                         print('</ul>');
                     }

@@ -6,7 +6,7 @@ class Logger {
 
     const DATE_FORMAT = 'D M d H:i:s Y';
     const DEF_LOG_LEVEL = 'ALL';
-    const DEF_LOG_LOCATION = '/var/www/html/groupa/cio.log';
+    const DEF_LOG_LOCATION = '/home/jvillegas/www/cis444/log/app_log';
 
     public function __construct(
         $dest = Logger::DEF_LOG_LOCATION, 

@@ -37,7 +37,7 @@
     }
     
     // Gather a list of links
-    $query = 'select LINK.UID,DESCRIPTION, POST_DATE, LTNAME,URL,MEMBER.FNAME,MEMBER.LNAME,LINK_TYPE.LICON from LINK join LINK_TYPE on LINK.LTYPE = LINK_TYPE.LTID join MEMBER on LINK.UID = MEMBER.UID join FRIEND on FRIEND.FID = LINK.UID where FRIEND.UID = '.$s->getUid().' order by POST_DATE DESC';
+    $query = 'select LINK.LID,LINK.UID,DESCRIPTION, POST_DATE, LTNAME,URL,MEMBER.FNAME,MEMBER.LNAME,LINK_TYPE.LICON from LINK join LINK_TYPE on LINK.LTYPE = LINK_TYPE.LTID join MEMBER on LINK.UID = MEMBER.UID join FRIEND on FRIEND.FID = LINK.UID where FRIEND.UID = '.$s->getUid().' order by POST_DATE DESC';
     $res = $db->select($query);
     if($res == null) $res = array(); 
     $links = array();
@@ -52,6 +52,7 @@ $tab = "\t";
 <div id="page">
     <div id="content">
         <?php
+            $linkimpressions = array();
             // Output the links of your friends
             if(sizeof($links) == 0) {
                 print('<p class="red40">None of your friends have posted any links.</p>');
@@ -60,13 +61,14 @@ $tab = "\t";
                     $link_icon = (empty($link['LICON'])?"link.gif":$link['LICON']);
                     print('<div class="post">');
                     print('<h2>');
-                    print('<a href="'.$link['URL'].'" target="_blank">');
+                    print('<a class="userpost" data-index="'. $link['LID'] .'" href="'.$link['URL'].'" target="_blank">');
                     print('<img src="images/'.$link_icon.'" height="40" width="40" alt="link">');
                     print('&nbsp;'.$link['DESCRIPTION'].'</a></h2>');
                     print('<p class="meta"><span class="date">'.date("F d, Y",strtotime($link['POST_DATE'])).'</span>');
-                    print('<span class="posted">Posted by <a href="user.php?u='.$link['UID'].'">'.$link['FNAME'].' '.$link['LNAME'].'</a></span></p>');
+                    print('<span class="posted">Posted by <a class="userprofile" href="user.php?context=post&u='.$link['UID'].'">'.$link['FNAME'].' '.$link['LNAME'].'</a></span></p>');
                     print('<div class="clear">&nbsp;</div></div>');
 					print($return.$tab.$tab);
+                    echo "<script>ga('send', 'event', 'userpost', 'impression', '" . $link['LID'] . "');</script>";
                 }
             }
         ?>
@@ -146,7 +148,8 @@ $tab = "\t";
                             } else {
                                 $name = $friend['FNAME'].' '.$friend['LNAME'];
                             }
-                            print('<li><a href="user.php?u='.$friend['UID'].'"><img src="images/friend.png" alt="'.$name.'" class="icon16" />&nbsp;'.$name.'</a></li>');
+                            print('<li><a class="userprofile" href="user.php?context=friend&u='.$friend['UID'].'"><img src="images/friend.png" alt="'.$name.'" class="icon16" />&nbsp;'.$name.'</a></li>');
+                            echo "<script>ga('send', 'event', 'userprofile', 'impression', '" . $friend['UID'] . "');</script>";
                             
                         }
                         print('</ul>');

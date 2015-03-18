@@ -107,7 +107,7 @@ print ('Signup Date</a></th>');
                                     $email = explode('@',$user['EMAIL']);                                                                    
                                     $displayName = $email[0];
                                 }
-                                print('<td><a href="user.php?u='.$user['UID'].'">'.$displayName.'</a></td>');
+                                print('<td><a class="userprofile" href="user.php?context=search&u='.$user['UID'].'">'.$displayName.'</a></td>');
 
                                 // Signup Date
 								//Change date from MYSQL format to Prefered Date/Time format
@@ -116,7 +116,7 @@ print ('Signup Date</a></th>');
 								print('<td>'.$sub_date.'</td>');
 								
                                 // Actions
-                                print('<td><a href="user.php?u='.$user['UID'].'"><img src="images/32magnify.png" class="imgicon" alt="Profile" />View Profile</a>&nbsp;');
+                                print('<td><a class="userprofile" href="user.php?context=search&u='.$user['UID'].'"><img src="images/32magnify.png" class="imgicon" alt="Profile" />View Profile</a>&nbsp;');
                                 
                                 if($s->getUid() != $user['UID'] && !($m->isFriend($s->getUid(),$user['UID']))) {                                    
                                     print('<a href="user.php?u='.$user['UID'].'&f=add&search='.urlencode($term.'&t='.$search_type).'"><img src="images/user_add.png" class="imgicon" alt="Follow" />Add Friend</a>');

@@ -77,6 +77,7 @@ class Db {
             $val .= $esc . self::$dbconn->real_escape_string($values) . $esc;
         }
         $dbquery = 'INSERT INTO ' . $table . ' (' . $cols . ') VALUES (' . $val . ')';
+
         self::$dbconn->real_query($dbquery);       
         $result = true;
 
