@@ -11,8 +11,9 @@
 <script>
     <?php
         if (isset($_GET['context'])) {
-            echo "ga('set', 'dimension1' , '".$_GET['context']."' );\n";
+            echo "fieldObject.dimension1 = '".$_GET['context']."';";
         }
+        echo "ga('set', fieldObject);";
         echo "ga('send', 'pageview');";
     ?>
 </script>

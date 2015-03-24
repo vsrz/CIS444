@@ -59,7 +59,7 @@ if (isset($_POST) && !empty($_POST)) {
         // If stuff is valid, let's create the account
         if(sizeof($err) == 0) {
             $m->createNew($_POST['email'], $pw);
-            header('Location: index.php');
+            header('Location: index.php?signup=success');
             exit();
         } else {
             // Some invalid stuff, let's save appropriate values 
